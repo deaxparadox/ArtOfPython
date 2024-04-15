@@ -19,4 +19,5 @@ def f(x):
 
 if __name__ == "__main__":
     with Pool(5) as p:
-        print(p.map(fibonacci, [x+40 for x in [1, 2, 3]]))
+        # print(p.map(fibonacci, [x+40 for x in [1, 2, 3]]))
+        print(p.map(fibonacci, [x+40 for x in [1, 1, 1]]))
