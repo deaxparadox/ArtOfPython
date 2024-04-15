@@ -22,3 +22,6 @@ def f(x):
 if __name__ == "__main__":
     with Pool(CPU_COUNT) as p:
         print(p.map(factorial, [x+40 for x in [1, 2, 3]]))
+        
+        # pool must be closed after using
+        p.close()

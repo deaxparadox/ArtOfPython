@@ -1,6 +1,6 @@
 # Art Of Python
 
 
-- [Beginner](101-basics/README.md)
-
+- [Basics](101-basics/README.md)
+- [OOPs](107-OOPs/README.md)
 - [Reference](102-references/README.md)
