@@ -3,7 +3,7 @@
 
 ## Escaping single quotes
 
-If you want to include the single in our string. It can be done using `\` backslash character.
+If you want to include the *single quote* in our string. It can be done using `\` backslash character.
 
 ```py
 # escaping single quotes
@@ -13,7 +13,6 @@ If you want to include the single in our string. It can be done using `\` backsl
 
 - If you don't escape the single in quote in between your string, you will the get syntax. Because python think you are trying to end the string after `Isn`. 
 
-- So you can escape the single quote.
 
 ```python
 # not escaping quotes
@@ -27,6 +26,10 @@ SyntaxError: invalid syntax
 "Isn't they said"
 >>> 
 ```
+
+
+- So you can escape the single quote.
+
 
 Another way to add single quote in between your string is, you can used *double quotes* to create string.
 
