@@ -25,8 +25,10 @@ Python's versatility and ease of learning continue to attract beginners and expe
 
 [Programming paradigms >>>](programming-paradigms.md)
 
-### Tutorials
 
-- [Basics](101-basics/README.md)
-- [OOPs](107-OOPs/README.md)
-- [Reference](102-references/README.md)
+### Learn about the [Python](docs/ArtOfPython/README.md) 
+
+- [Basics](docs/ArtOfPython/basics/README.md)
+- [References](docs/ArtOfPython/references/README.md): References are detaileds explanation and implememtation of each topics. 
+- [Topics](docs/ArtOfPython/topics/README.md)
+- [Asynchronous Programming](docs/ArtOfPython/async-prog/README.md)
