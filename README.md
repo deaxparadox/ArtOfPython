@@ -23,12 +23,66 @@ Python is used in various domains due to its flexibility and powerful capabiliti
 Python's versatility and ease of learning continue to attract beginners and experienced developers alike, solidifying its position as one of the most popular programming languages in the world.
 
 
-[Programming paradigms >>>](programming-paradigms.md)
 
 
-### Learn about the [Python](docs/ArtOfPython/README.md) 
 
-- [Basics](docs/ArtOfPython/basics/README.md)
-- [References](docs/ArtOfPython/references/README.md): References are detaileds explanation and implememtation of each topics. 
-- [Topics](docs/ArtOfPython/topics/README.md)
-- [Asynchronous Programming](docs/ArtOfPython/async-prog/README.md)
+### Learn about the [Python here](docs/ArtOfPython/README.md) 
+
+
+##### Python version manager
+
+- [pyenv](https://github.com/pyenv/pyenv): Manager for managing python packages.
+- [uv](https://docs.astral.sh/uv/): All in one tool for manager python version and python packages.
+
+##### Python package manager
+
+- [Pip](https://docs.python.org/3/installing/index.html#work-with-multiple-versions-of-python-installed-in-parallel): Default Python packages manager, comes with Python.
+
+
+##### Package Python packages
+    
+- [Packaging python projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+
+### Python libraries and frameworks
+
+List of libraries and frameworks aviaable in python.
+
+Fullstack development
+
+- [Django](https://www.djangoproject.com/): The most Popular fullstack framework.
+- [Fastapi](https://fastapi.tiangolo.com/): Popular for API Development, can also be used for building fullstack application
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/): Minimalist configuration to fullstack solution.
+
+API Development 
+
+- [Sanic](https://sanic.dev/en/)
+
+
+Object relation mapper (ORM)
+
+- [SQLAlchemy](https://www.sqlalchemy.org/)
+- [Alembic](https://alembic.sqlalchemy.org/en/latest/)
+- [Django ORM](https://)
+- [SQLModel](https://sqlmodel.tiangolo.com/)
+
+
+Asynchronous Programming
+
+- [asyncio](https://)
+- [trio](https://)
+
+
+Data manipulation
+
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
+
+Array creation and matrix
+
+- [Numpy](https://numpy.org/)
+
+Data Visualization
+
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Folium](https://)
+- [Plotly](https://)
