@@ -23,53 +23,48 @@ Python is used in various domains due to its flexibility and powerful capabiliti
 Python's versatility and ease of learning continue to attract beginners and experienced developers alike, solidifying its position as one of the most popular programming languages in the world.
 
 
-
-
-
 ### Learn about the [Python here](docs/ArtOfPython/README.md) 
 
 
-##### Python version manager
+# Python libraries and frameworks
+
+
+Python version manager
 
 - [pyenv](https://github.com/pyenv/pyenv): Manager for managing python packages.
 - [uv](https://docs.astral.sh/uv/): All in one tool for manager python version and python packages.
 
-##### Python package manager
+Python package manager
 
 - [Pip](https://docs.python.org/3/installing/index.html#work-with-multiple-versions-of-python-installed-in-parallel): Default Python packages manager, comes with Python.
 
 
-##### Package Python packages
+Package Python packages
     
 - [Packaging python projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
-### Python libraries and frameworks
 
-List of libraries and frameworks aviaable in python.
-
-Fullstack development
+Web Development framework
 
 - [Django](https://www.djangoproject.com/): The most Popular fullstack framework.
-- [Fastapi](https://fastapi.tiangolo.com/): Popular for API Development, can also be used for building fullstack application
+- [FastAPI](https://fastapi.tiangolo.com/): Popular for API Development, can also be used for building fullstack application.
 - [Flask](https://flask.palletsprojects.com/en/3.0.x/): Minimalist configuration to fullstack solution.
-
-API Development 
-
-- [Sanic](https://sanic.dev/en/)
+- [Sanic](https://sanic.dev/en/): Used for API development, similar to FastAPI.
+- [Django Unicorn](https://www.django-unicorn.com/): A magical full-stack framework for Django
 
 
 Object relation mapper (ORM)
 
-- [SQLAlchemy](https://www.sqlalchemy.org/)
-- [Alembic](https://alembic.sqlalchemy.org/en/latest/)
-- [Django ORM](https://)
-- [SQLModel](https://sqlmodel.tiangolo.com/)
+- [SQLAlchemy](https://www.sqlalchemy.org/): ORM for mapping python object models to SQL.
+- [Alembic](https://alembic.sqlalchemy.org/en/latest/): Used for migrating and updating the python object models to SQL.
+- [Django ORM](https://): Django builtin ORM for SQL.
+- [SQLModel](https://sqlmodel.tiangolo.com/): SQLModel, SQL databases in Python, designed for simplicity, compatibility, and robustness.
 
 
 Asynchronous Programming
 
-- [asyncio](https://)
-- [trio](https://)
+- [asyncio](https://docs.python.org/3/library/asyncio.html): Python builtin library for asynchronous programming.
+- [trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and I/O¶
 
 
 Data manipulation
@@ -86,3 +81,13 @@ Data Visualization
 - [Seaborn](https://seaborn.pydata.org/)
 - [Folium](https://)
 - [Plotly](https://)
+
+
+
+----------
+
+### Contextual reading
+
+- **Bold** is used for pointing at something. So, in the paragraph if the focus is required on some word, then we can used th bold fonts. For example, in the following sentence "**Python** most is the most used programming language".
+
+- *Italic* is used for context reference.

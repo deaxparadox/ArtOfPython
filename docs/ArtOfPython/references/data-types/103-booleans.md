@@ -1,2 +1,5 @@
-<!-- booleans: types -->
-<!-- booleans: operations and, or, not -->
+<!-- boolean types -->
+<!-- boolean operations and, or, not -->
+<!-- boolean in numeric forms -->
+<!-- boolean expression -->
+<!-- boolean conditions -->

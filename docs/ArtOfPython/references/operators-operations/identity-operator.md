@@ -1,0 +1,2 @@
+- `is`: object identity
+- `is not`: negated object identity
