@@ -1,7 +1,28 @@
 # Art Of Python
 
+### Table of content
+
+- [Introduction](#introduction)
+- [Python usecases](#python-usecases)
+- [Python libraries and frameworks](#python-libraries-and-frameworks)
+    - [Python package managers](#python-package-managers)
+    - [Project manager](#project-manager)
+    - [Testing](#testing)
+    - [Tasks execution](#task-execution)
+    - [Web frameworks](#web-development-framework)
+    - [Object relational mapper](#object-relation-mapper)
+    - [Asynchronous programming](#asynchronous-programming)
+    - [Array creation and matrix](#array-creation-and-matrix)
+    - [Data manipulation](#data-manipulation)
+    - [Data visualisation](#data-visualization)
+----------
+
+### Introduction
+
 Python is a versatile, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Its extensive standard library and active community contribute to its widespread adoption and continuous development.
 
+
+### Python usecases
 Python is used in various domains due to its flexibility and powerful capabilities:
 
 1. **Web Development**: Frameworks like Django, Flask, and Pyramid enable developers to build robust, scalable web applications efficiently.
@@ -23,28 +44,38 @@ Python is used in various domains due to its flexibility and powerful capabiliti
 Python's versatility and ease of learning continue to attract beginners and experienced developers alike, solidifying its position as one of the most popular programming languages in the world.
 
 
-### Learn about the [Python here](docs/ArtOfPython/README.md) 
+#### Learn about the [Python here](docs/ArtOfPython/README.md) 
 
 
 # Python libraries and frameworks
 
 
-Python version manager
+### Python package managers
 
 - [pyenv](https://github.com/pyenv/pyenv): Manager for managing python packages.
 - [uv](https://docs.astral.sh/uv/): All in one tool for manager python version and python packages.
-
-Python package manager
-
-- [Pip](https://docs.python.org/3/installing/index.html#work-with-multiple-versions-of-python-installed-in-parallel): Default Python packages manager, comes with Python.
-
-
-Package Python packages
-    
+- [pip](https://docs.python.org/3/installing/index.html#work-with-multiple-versions-of-python-installed-in-parallel): Default Python packages manager, comes with Python.
+- [pipx](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments.
+- [pipsi](https://github.com/pypa/pipx): Install and Run Python Applications in Isolated Environments.
+- [poetry](https://):
+- [pipenv](https://)
+- [fades](https://github.com/PyAr/fades): is a tool to run individual Python scripts inside automatically provisioned virtualenvs with their dependencies installed.
 - [Packaging python projects](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
 
+### Testing
 
-Web Development framework
+- [tox](https://tox.wiki/en/4.23.0/index.html): aims to automate and standardize testing in Python.
+- [nox](https://nox.thea.codes/en/stable/): command-line tool that automates testing in multiple Python environments, similar to tox.    
+
+### Project manager
+
+- [Hatch](https://hatch.pypa.io/latest/): Hatch is a modern, extensible Python project manager.
+
+### Task execution
+
+- [Invoke](https://www.pyinvoke.org/): Pythonic task execution
+
+### Web Development framework
 
 - [Django](https://www.djangoproject.com/): The most Popular fullstack framework.
 - [FastAPI](https://fastapi.tiangolo.com/): Popular for API Development, can also be used for building fullstack application.
@@ -53,7 +84,7 @@ Web Development framework
 - [Django Unicorn](https://www.django-unicorn.com/): A magical full-stack framework for Django
 
 
-Object relation mapper (ORM)
+### Object relation mapper
 
 - [SQLAlchemy](https://www.sqlalchemy.org/): ORM for mapping python object models to SQL.
 - [Alembic](https://alembic.sqlalchemy.org/en/latest/): Used for migrating and updating the python object models to SQL.
@@ -61,21 +92,21 @@ Object relation mapper (ORM)
 - [SQLModel](https://sqlmodel.tiangolo.com/): SQLModel, SQL databases in Python, designed for simplicity, compatibility, and robustness.
 
 
-Asynchronous Programming
+### Asynchronous Programming
 
 - [asyncio](https://docs.python.org/3/library/asyncio.html): Python builtin library for asynchronous programming.
 - [trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and I/O¶
 
 
-Data manipulation
+### Data manipulation
 
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
-Array creation and matrix
+### Array creation and matrix
 
 - [Numpy](https://numpy.org/)
 
-Data Visualization
+### Data Visualization
 
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
