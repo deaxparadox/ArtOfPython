@@ -44,7 +44,11 @@ Python is used in various domains due to its flexibility and powerful capabiliti
 Python's versatility and ease of learning continue to attract beginners and experienced developers alike, solidifying its position as one of the most popular programming languages in the world.
 
 
-#### Learn about the [Python here](docs/ArtOfPython/README.md) 
+### Learn python
+
+- To lean via chapter [click here ⏩](/docs/ArtOfPython/chapter.md)
+- To learn via topics [click here ⏩](/docs/ArtOfPython/README.md)
+- To lean DSA [click here ⏩](/docs/ArtOfPython/dsa/README.md)
 
 
 # Python libraries and frameworks
