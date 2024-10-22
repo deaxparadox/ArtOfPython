@@ -2,6 +2,7 @@
 
 
 ### Data types 
+
 - Introduction ([basics](basic/data-types/README.md) | [references](references/data-types/README.md))
 - Strings ([basics](basic/data-types/strings.md) | [references](references/data-types/101-strings/README.md))
 - Numeric Types ([basics](basic/data-types/numerics.md) | [references](references/data-types/102-numerics/README.md))
@@ -17,6 +18,7 @@
 - Set ([basics](basic/data-structures/set.md) | [references](references/data-structures/104-set/README.md))
 
 ### Operators and expressions
+
 - Introduction ([basics](basic/operations/set.md) | [references](references/operators-operations/README.md))
 - Numerical ([basics](basic/operators-operations/numerical.md) | [references](references/operators-operations/numerical.md))
 - Bitwise ([basics](basic/operators-operations/identidy.md) | [references](references/operators-operations/identity.md))
@@ -25,6 +27,7 @@
 - Identity ([basics](basic/operators-operations/identity.md) | [references](references/operators-operations/identity-operator.md))
 
 ### Statements
+
 - Introduction ([basics](basic/operations/set.md) | [references](references/operators-operations/README.md))
 - Conditional statement ([basics](basic/statements/conditional-statement.md) | [references](references/statements/conditional-statement.md))
     - if ([basics](basic/statements/conditional.md) | [references](references/statements/101-if.md))
@@ -55,6 +58,7 @@
 
 
 ### Function
+
 - Introduction ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
 - Function argument 
     - Positional arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
@@ -98,6 +102,7 @@
 
 
 ### Asynchronous Programming
+
 - Introduction ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
 - Asynchronous Iterator protocols ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
 - Asynchronous Context manager protocols ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
