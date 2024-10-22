@@ -30,14 +30,18 @@
 
 - Introduction ([basics](basic/operations/set.md) | [references](references/operators-operations/README.md))
 - Conditional statement ([basics](basic/statements/conditional-statement.md) | [references](references/statements/conditional-statement.md))
+
     - if ([basics](basic/statements/conditional.md) | [references](references/statements/101-if.md))
     - if-else ([basics](basic/statements/101-if.md#ifelse-statement) | [references](references/statements/101-if.md))
 - Looping statement ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+
     - for ([basics](basic/statements/conditional.md) | [references](references/statements/102-for/README.md))
     - while ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - break ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - continue ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+
 - else clause ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+
     - for-else ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - while-else ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - try-else ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
@@ -49,6 +53,7 @@
 - async-await ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
 
 - Exception statement ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+
     - assert ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - raise ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - try-except-finally ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
@@ -61,13 +66,13 @@
 
 - Introduction ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
 - Function argument 
+
     - Positional arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - Key-word arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - Only positional arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - Only key-word arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - Combined arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-
-
+    
 - Generators ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - [Generator Expression](https://)
     - [Generator Functions](https://)
