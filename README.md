@@ -49,7 +49,7 @@ Python's versatility and ease of learning continue to attract beginners and expe
 - To lean via chapter [click here ⏩](/docs/ArtOfPython/chapter.md)
 - To learn via topics [click here ⏩](/docs/ArtOfPython/README.md)
 - To lean DSA [click here ⏩](/docs/ArtOfPython/dsa/README.md)
-
+- Python design patterns [click here ⏭️](/docs/ArtOfPython/design-patterns/README.md)
 
 # Python libraries and frameworks
 
