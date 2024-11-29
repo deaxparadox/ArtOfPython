@@ -3,6 +3,7 @@
 ### Table of content
 
 - [Introduction](#introduction)
+- [Learn Python](#learn-python)
 - [Python usecases](#python-usecases)
 - [Python libraries and frameworks](#python-libraries-and-frameworks)
     - [Python package managers](#python-package-managers)
@@ -21,6 +22,12 @@
 
 Python is a versatile, high-level programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Its extensive standard library and active community contribute to its widespread adoption and continuous development.
 
+### Learn python
+
+- To lean via chapter [click here ⏩](/docs/ArtOfPython/chapter.md)
+- To learn via topics [click here ⏩](/docs/ArtOfPython/README.md)
+- To lean DSA [click here ⏩](/docs/ArtOfPython/dsa/README.md)
+- Python design patterns [click here ⏭️](/docs/ArtOfPython/design-patterns/README.md)
 
 ### Python usecases
 Python is used in various domains due to its flexibility and powerful capabilities:
@@ -44,12 +51,7 @@ Python is used in various domains due to its flexibility and powerful capabiliti
 Python's versatility and ease of learning continue to attract beginners and experienced developers alike, solidifying its position as one of the most popular programming languages in the world.
 
 
-### Learn python
 
-- To lean via chapter [click here ⏩](/docs/ArtOfPython/chapter.md)
-- To learn via topics [click here ⏩](/docs/ArtOfPython/README.md)
-- To lean DSA [click here ⏩](/docs/ArtOfPython/dsa/README.md)
-- Python design patterns [click here ⏭️](/docs/ArtOfPython/design-patterns/README.md)
 
 # Python libraries and frameworks
 
@@ -126,3 +128,6 @@ Python's versatility and ease of learning continue to attract beginners and expe
 - **Bold** is used for pointing at something. So, in the paragraph if the focus is required on some word, then we can used th bold fonts. For example, in the following sentence "**Python** most is the most used programming language".
 
 - *Italic* is used for context reference.
+
+- **basic**: It's a one-page theoritical and basic code overview.
+- **reference**: It's the collection of mulitple pages in a folder.

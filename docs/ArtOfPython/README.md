@@ -1,30 +1,31 @@
 # Learn Python
 
+### Introduction
+
+- Introduction ([basics](basic/data-types/README.md) | [references](references/introduction.md))
+
 
 ### Data types 
 
-- Introduction ([basics](basic/data-types/README.md) | [references](references/data-types/README.md))
-- Strings ([basics](basic/data-types/strings.md) | [references](references/data-types/101-strings/README.md))
-- Numeric Types ([basics](basic/data-types/numerics.md) | [references](references/data-types/102-numerics/README.md))
-- Boolean ([basics](basic/data-types/boolean.md) | [references](references/data-types/boolean/README.md))
+- Introduction ([basic](basic/data-types/introduction.md) | [reference](references/data-types/introduction.md))
+- String ([basic](basic/data-types/strings.md) | [reference](references/data-types/101-strings/README.md))
+- Numerics ([basic](basic/data-types/numerics.md) | [reference](references/data-types/102-numerics/README.md))
+- Boolean ([basic](basic/data-types/boolean.md) | [reference](references/data-types/boolean/README.md))
 <!-- - [Complex](https://) -->
 
 ### Data structures
 
-- Introduction ([basics](basic/data-structures/README.md) | [references](references/data-structures/README.md))
-- List ([basics](basic/data-structures/list.md) | [references](references/data-structures/101-list/README.md))
-- Dictionary ([basics](basic/data-structures/dictionary.md) | [references](references/data-structures/103-dictionary/README.md))
-- Tuple ([basics](basic/data-structures/tuples.md) | [references](references/data-structures/102-tuple/README.md))
-- Set ([basics](basic/data-structures/set.md) | [references](references/data-structures/104-set/README.md))
+- Introduction ([basic](basic/data-structures/README.md) | [reference](references/data-structures/README.md))
+- List ([basic](basic/data-structures/list.md) | [reference](references/data-structures/101-list/README.md))
+- Dictionary ([basic](basic/data-structures/dictionary.md) | [reference](references/data-structures/103-dictionary/README.md))
+- Tuple ([basic](basic/data-structures/tuple.md) | [reference](references/data-structures/102-tuple/README.md))
+- Set ([basic](basic/data-structures/set.md) | [reference](references/data-structures/104-set/README.md))
 
 ### Operators and expressions
 
-- Introduction ([basics](basic/operations/set.md) | [references](references/operators-operations/README.md))
-- Numerical ([basics](basic/operators-operations/numerical.md) | [references](references/operators-operations/numerical.md))
-- Bitwise ([basics](basic/operators-operations/identidy.md) | [references](references/operators-operations/identity.md))
-- Compairson ([basics](basic/operators-operations/conditional.md) | [references](references/operators-operations/comparison-operator.md))
-- Membership ([basics](basic/operators-operations/membership.md) | [references](references/operators-operations/membership-operator.md))
-- Identity ([basics](basic/operators-operations/identity.md) | [references](references/operators-operations/identity-operator.md))
+- Introduction ([basic](basic/operators-operations/README.md) | [reference](references/operators-operations/README.md))
+- Operator ([basic](basic/operators-operations/operator.md) | [reference](references/operators-operations/operator/README.md))
+- Operation ([basic](basic/operators-operations/operations.md) | [reference](references/operators-operations/operations.md))
 
 ### Statements
 
@@ -37,7 +38,7 @@
     - while ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - break ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - continue ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Else clause ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+- else clause ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - for-else ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - while-else ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - try-else ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
@@ -56,17 +57,19 @@
 
 ### Function
 
-- Introduction ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Function argument 
-    - Positional arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Key-word arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Only positional arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Only key-word arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Combined arguments ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Generators ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - [Generator Expression](https://)
-    - [Generator Functions](https://)
-- Lambda functions ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+- [Introduction](references/functions/README.md)
+- [Function](references/functions/101-function/README.md)
+    - [Positional arguments](references/statements/conditional.md)
+    - [Key-word arguments](references/statements/conditional.md)
+    - [Only positional arguments](references/statements/conditional.md)
+    - [Only key-word arguments](references/statements/conditional.md)
+    - [Combined arguments](references/statements/conditional.md)
+    - [Function scope](references/functions/101-function/107-scopes/README.md)
+    - [Nested function](references/functions/101-function/nested-function.md)
+- [Generators](references/functions/102-generators/REAME.md)
+    - [Generator Expression](references/functions/102-generators/102-generator-expressions.md)
+    - [Generator Functions](references/functions/102-generators/101-generator-functions.md)
+- [Lambda functions](references/functions/103-lambda/README.md)
 
 
 
