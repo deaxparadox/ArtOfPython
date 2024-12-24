@@ -28,6 +28,7 @@ Python is a versatile, high-level programming language known for its simplicity 
 - To learn via topics [click here ⏩](/docs/ArtOfPython/README.md)
 - To lean DSA [click here ⏩](/docs/ArtOfPython/dsa/README.md)
 - Python design patterns [click here ⏭️](/docs/ArtOfPython/design-patterns/README.md)
+- Different programming paradigms [click here ⏩](/docs/ArtOfPython/programming-paradigms.md)
 
 ### Python usecases
 Python is used in various domains due to its flexibility and powerful capabilities:
