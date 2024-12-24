@@ -10,7 +10,7 @@
     - [Project manager](#project-manager)
     - [Testing](#testing)
     - [Tasks execution](#task-execution)
-    - [Web frameworks](#web-development-framework)
+    - [Web frameworks](docs/web-development/README..md)
     - [Object relational mapper](#object-relation-mapper)
     - [Asynchronous programming](#asynchronous-programming)
     - [Array creation and matrix](#array-creation-and-matrix)
@@ -81,13 +81,7 @@ Python's versatility and ease of learning continue to attract beginners and expe
 
 - [Invoke](https://www.pyinvoke.org/): Pythonic task execution
 
-### Web Development framework
 
-- [Django](https://www.djangoproject.com/): The most Popular fullstack framework.
-- [FastAPI](https://fastapi.tiangolo.com/): Popular for API Development, can also be used for building fullstack application.
-- [Flask](https://flask.palletsprojects.com/en/3.0.x/): Minimalist configuration to fullstack solution.
-- [Sanic](https://sanic.dev/en/): Used for API development, similar to FastAPI.
-- [Django Unicorn](https://www.django-unicorn.com/): A magical full-stack framework for Django
 
 
 ### Object relation mapper
