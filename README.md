@@ -72,7 +72,11 @@ Python's versatility and ease of learning continue to attract beginners and expe
 ### Testing
 
 - [tox](https://tox.wiki/en/4.23.0/index.html): aims to automate and standardize testing in Python.
-- [nox](https://nox.thea.codes/en/stable/): command-line tool that automates testing in multiple Python environments, similar to tox.    
+- [nox](https://nox.thea.codes/en/stable/): command-line tool that automates testing in multiple Python environments, similar to tox.
+- [pytest](https://docs.pytest.org/en/latest/): The pytest framework makes it easy to write small, readable tests, can scale to support complex functional testing for applications and libraries.
+- [devpi](https://devpi.net): Manage your Python Packages Workflow
+- [invoke](https://www.pyinvoke.org/): General-purpose task execution library, similar to Make.
+- [nox](https://nox.thea.codes/en/stable/): Similar to tox, but uses python script instead of a configuration file.
 
 ### Project manager
 
