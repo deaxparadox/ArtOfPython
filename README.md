@@ -101,7 +101,7 @@ Python's versatility and ease of learning continue to attract beginners and expe
 
 - [asyncio](https://docs.python.org/3/library/asyncio.html): Python builtin library for asynchronous programming.
 - [trio](https://trio.readthedocs.io/en/stable/): a friendly Python library for async concurrency and I/O¶
-
+- [AnyIO](https://anyio.readthedocs.io/en/stable/): AnyIO is an asynchronous networking and concurrency library.
 
 ### Data manipulation
 

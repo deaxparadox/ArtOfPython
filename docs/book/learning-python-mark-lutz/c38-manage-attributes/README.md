@@ -4,3 +4,6 @@
 - [Properties](properties.ipynb)
 - [Descriptors](descriptors.ipynb)
 - [`__getattr__` and `__getattribute__`](__getattr__and__getattribute.ipynb)
+    - [Computed Attributes](computer-attributes.ipynb)
+    - [`__getattr__` and `__getattribute__`](comparison.ipynb)
+    - [Management Techniques Compared](management-techniques-compared.ipynb)
