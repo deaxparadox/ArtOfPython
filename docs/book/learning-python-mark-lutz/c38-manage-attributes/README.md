@@ -7,3 +7,4 @@
     - [Computed Attributes](computer-attributes.ipynb)
     - [`__getattr__` and `__getattribute__`](comparison.ipynb)
     - [Management Techniques Compared](management-techniques-compared.ipynb)
+    - [Intercepting BUilt-in Operation Attributes](intercepting-built-in-operation-attributes.ipynb)
