@@ -13,6 +13,7 @@
     - [Array creation and matrix](#array-creation-and-matrix)
     - [Data manipulation](#data-manipulation)
     - [Data visualisation](#data-visualization)
+    - [Networking](#networking)
 
 
 ### Python package managers
@@ -75,3 +76,10 @@
 - [Seaborn](https://seaborn.pydata.org/)
 - [Folium](https://)
 - [Plotly](https://)
+
+
+### Networking
+
+- [Scapy](https://scapy.readthedocs.io/en/latest/index.html): Packet manipulation library
+
+### Networking programming
