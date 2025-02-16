@@ -58,14 +58,16 @@
 ### Function
 
 - [Introduction](references/functions/README.md)
-- [Function](references/functions/101-function/README.md)
-    - [Positional arguments](references/statements/conditional.md)
-    - [Key-word arguments](references/statements/conditional.md)
+- Function [basic](basics/functions/101-function/README.md) | [references](references/functions/101-function/README.md) 
+    - [Positional arguments](references/functions/101-function/105-Special-parameters.md#positional-arguments)
+    - [Key-word arguments](references/functions/101-function/104-keyword-arguments.md)
     - [Only positional arguments](references/statements/conditional.md)
-    - [Only key-word arguments](references/statements/conditional.md)
-    - [Combined arguments](references/statements/conditional.md)
+    - [Only key-word arguments](references/functions/101-function/105-Special-parameters.md#keyword-only-argument)
+    - [Combined arguments](references/functions/101-function/105-Special-parameters.md#combined)
     - [Function scope](references/functions/101-function/107-scopes/README.md)
     - [Nested function](references/functions/101-function/nested-function.md)
+    - [Function as argument](references/functions/101-function/function-as-argument.md)
+    - [List as argument](references/functions/101-function/list-as-argument.md)
 - [Generators](references/functions/102-generators/REAME.md)
     - [Generator Expression](references/functions/102-generators/102-generator-expressions.md)
     - [Generator Functions](references/functions/102-generators/101-generator-functions.md)
@@ -111,3 +113,9 @@
 - [Programming paradigms](programming-paradigms.md)
 - [Indexing](/docs/ArtOfPython/references/topics/indexing.md)
 - [Slicing](/docs/ArtOfPython/references/topics/slicing.md)
+
+
+### How to learn
+
+- Basics section only contains the syntax and a simple examples.
+- References sections contains the deep explanation with examples

@@ -70,7 +70,7 @@ TypeError: pos_only_arg() got some positional-only arguments passed as keyword a
 
 ```
 
-## Keyword only argument
+### Keyword only argument
 
 ```python
 >>> def kwd_only_arg(*, arg):
@@ -90,7 +90,7 @@ kwd_only_arg(1)         # you will get TypeError
 - if you try to use it as keyword argument you will `TypeError`.
 
 
-## Combined
+### Combined
 
 ```python
 >>> def combined_example(pos_only, /, standard, *, kwd_only):
