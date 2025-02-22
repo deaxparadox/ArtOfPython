@@ -54,7 +54,7 @@ random, math, etc
 
 For instace, to add two number **X** and **Y** you would say **X + Y**, which tell Python to apply the **+** operator to the values named by **X** and **Y**. The result of the expression is the sum of **X** an **Y**, another number object.
 
-![Python expression operators and precedence](../../../assets/images/python-expression-operator-and-precedence.png)
+![Python expression operators and precedence](/assets/images/python-expression-operator-and-precedence.png)
 
 
 ### Mixed operators follow operator precidence.

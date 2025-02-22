@@ -4,61 +4,66 @@
 
 - Introduction ([basics](basic/data-types/README.md) | [references](references/introduction.md))
 
-
 ### Data types 
 
-- Introduction ([basic](basic/data-types/introduction.md) | [reference](references/data-types/introduction.md))
-- String ([basic](basic/data-types/strings.md) | [reference](references/data-types/101-strings/README.md))
-- Numerics ([basic](basic/data-types/numerics.md) | [reference](references/data-types/102-numerics/README.md))
-- Boolean ([basic](basic/data-types/boolean.md) | [reference](references/data-types/boolean/README.md))
+- [Introduction](references/data-types/introduction.md)
+- [String](references/data-types/101-strings/README.md)
+- [Numerics](references/data-types/102-numerics/README.md)
+- [Boolean](references/data-types/boolean/README.md)
 <!-- - [Complex](https://) -->
 
 ### Data structures
 
-- Introduction ([basic](basic/data-structures/README.md) | [reference](references/data-structures/README.md))
-- List ([basic](basic/data-structures/list.md) | [reference](references/data-structures/101-list/README.md))
-- Dictionary ([basic](basic/data-structures/dictionary.md) | [reference](references/data-structures/103-dictionary/README.md))
-- Tuple ([basic](basic/data-structures/tuple.md) | [reference](references/data-structures/102-tuple/README.md))
-- Set ([basic](basic/data-structures/set.md) | [reference](references/data-structures/104-set/README.md))
+- [Introduction](references/data-structures/README.md)
+- [List](references/data-structures/101-list/README.md)
+- [Dictionary](references/data-structures/103-dictionary/README.md)
+- [Tuple](references/data-structures/102-tuple/README.md)
+- [Set](references/data-structures/104-set/README.md)
 
 ### Operators and expressions
 
-- Introduction ([basic](basic/operators-operations/README.md) | [reference](references/operators-operations/README.md))
-- Operator ([basic](basic/operators-operations/operator.md) | [reference](references/operators-operations/operator/README.md))
-- Operation ([basic](basic/operators-operations/operations.md) | [reference](references/operators-operations/operations.md))
+- [Introduction](references/operators-operations/README.md)
+- [Operator](references/operators-operations/operator/README.md)
+- [Operation](references/operators-operations/operations.md)
 
 ### Statements
 
-- Introduction ([basics](basic/operations/set.md) | [references](references/operators-operations/README.md))
-- Conditional statement ([basics](basic/statements/conditional-statement.md) | [references](references/statements/conditional-statement.md))
-    - if ([basics](basic/statements/conditional.md) | [references](references/statements/101-if.md))
-    - if-else ([basics](basic/statements/101-if.md#ifelse-statement) | [references](references/statements/101-if.md))
-- Looping statement ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - for ([basics](basic/statements/conditional.md) | [references](references/statements/102-for/README.md))
-    - while ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - break ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - continue ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- else clause ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - for-else ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - while-else ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - try-else ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- match ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- return ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- yield ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- with-as ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- async-await ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- exception statement ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - assert ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - raise ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - try-except-finally ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- with-as ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- async-await ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+- [Introduction](references/operators-operations/README.md)
+    - [Comparison operators](references/operators-operations/comparison-operator.md)
+    - [Idetity operators](references/operators-operations/identity-operator.md)
+    - [Membership operators](references/operators-operations/membership-operator.md)
+    - [Conditional assignment](references/statements/115-conditional-assignment.md)
+- [Conditional statement](references/statements/conditional-statement.md)
+    - [if](references/statements/101-if.md)
+    - [if-else](references/statements/101-if.md)
+- [Looping statement](references/statements/conditional.md)
+    - [for](references/statements/102-for/README.md)
+    - [while](references/statements/conditional.md)
+    - [break](references/statements/conditional.md)
+    - [continue](references/statements/conditional.md)
+    - [Looping techniques](references/statements/looping-techniques.md)
+- [else clause](references/statements/114-else-clause.md)
+    - [for-else](references/statements/conditional.md)
+    - [while-else](references/statements/conditional.md)
+    - [try-else](references/statements/conditional.md)
+- [match](references/statements/conditional.md)
+- [return](references/statements/conditional.md)
+- [yield](references/statements/conditional.md)
+- [with-as](references/statements/with-as.md)
+- [async-await](references/statements/conditional.md)
+
+### Exception
+
+- [exception statement](references/statements/conditional.md)
+- [assert](references/statements/conditional.md)
+- [raise](references/statements/conditional.md)
+- [try-except-finally](references/statements/conditional.md)
 
 
 ### Function
 
 - [Introduction](references/functions/README.md)
-- Function [basic](basics/functions/101-function/README.md) | [references](references/functions/101-function/README.md) 
+- [Function](references/functions/101-function/README.md)
     - [Positional arguments](references/functions/101-function/105-Special-parameters.md#positional-arguments)
     - [Key-word arguments](references/functions/101-function/104-keyword-arguments.md)
     - [Only positional arguments](references/statements/conditional.md)
@@ -77,34 +82,34 @@
 
 ### Object oriented programming
 
-- Introduction ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Classes ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- OOPs concepts ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Inheritence ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Abstraction ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Polymorphism ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Encapsulation ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Operator overloading ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Method (Function) overloading ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Operator overloading ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Magic (Dunder) methods ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Iterator Protocols ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Content managers Protocols ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Descriptors ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Decorators ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Staticmethod ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Classmethod ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-    - Property ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Metaprogramming ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Context mangers ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+- [Introduction](references/statements/conditional.md)
+- [Classes](references/statements/conditional.md)
+- [OOPs concepts](references/statements/conditional.md)
+    - [Inheritence](references/statements/conditional.md)
+    - [Abstraction](references/statements/conditional.md)
+    - [Polymorphism](references/statements/conditional.md)
+    - [Encapsulation](references/statements/conditional.md)
+    - [Operator overloading](references/statements/conditional.md)
+    - [Method (Function) overloading](references/statements/conditional.md)
+    - [Operator overloading](references/statements/conditional.md)
+- [Magic (Dunder) methods](references/statements/conditional.md)
+- [Iterator Protocols](references/statements/conditional.md)
+- [Content managers Protocols](references/statements/conditional.md)
+- [Descriptors](references/statements/conditional.md)
+- [Decorators](references/statements/conditional.md)
+    - [Staticmethod](references/statements/conditional.md)
+    - [Classmethod](references/statements/conditional.md)
+    - [Property](references/statements/conditional.md)
+- [Metaprogramming](references/statements/conditional.md)
+- [Context mangers](references/statements/conditional.md)
 
 
 
 ### Asynchronous Programming
 
-- Introduction ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Asynchronous Iterator protocols ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Asynchronous Context manager protocols ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+- [Introduction](references/statements/conditional.md)
+- [Asynchronous Iterator protocols](references/statements/conditional.md)
+- [Asynchronous Context manager protocols](references/statements/conditional.md)
 
 
 

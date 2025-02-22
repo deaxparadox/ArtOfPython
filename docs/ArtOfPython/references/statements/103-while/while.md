@@ -34,7 +34,7 @@ while count <=5:
 5
 ```
 
-## `break` Statement
+### `break` Statement
 
 ```python
 count = 0
@@ -50,7 +50,7 @@ while count <= 5:
 2
 ```
 
-## `continue` Statement
+### `continue` Statement
 
 ```python
 count = 0
@@ -63,18 +63,41 @@ while count <= 5:
 ```
 
 
-## `else` clauses
+### `else` clauses
 
-- `else` clause in while loop is executed when condition become False.
+- The *else* clause in while loop is executed when the while loop is exhausted.
 
 ```python
-count = 0
-breaker = True
-while breaker:
-    if count >= 5:
-        breaker = False
-    print(count)
-    count += 1
-else:
-    print("Counter is greator than 5")
+In [26]: 
+    ...: count = 0
+    ...: while count < 5:
+    ...:     print(count)
+    ...:     count += 1
+    ...: else:
+    ...:     print("Counter is greator than 5")
+    ...: 
+0
+1
+2
+3
+4
+Counter is greator than 5
+```
+
+- In the following example, the *while* loop is terminated in between, therefore *else* block will not be executed.
+
+```py
+In [22]: counter = 0
+
+In [23]: while counter<5:
+    ...:     print(counter)
+    ...:     if counter == 2:
+    ...:         break
+    ...:     counter+=1
+    ...: else:
+    ...:     print("Else block is executed")
+    ...: 
+0
+1
+2
 ```
