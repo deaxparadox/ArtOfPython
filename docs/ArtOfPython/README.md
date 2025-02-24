@@ -92,7 +92,7 @@
     - [Operator overloading](references/statements/conditional.md)
     - [Method (Function) overloading](references/statements/conditional.md)
     - [Operator overloading](references/statements/conditional.md)
-- [Magic (Dunder) methods](references/statements/conditional.md)
+- [Magic (Dunder) methods](references/magic-method/README.md)
 - [Iterator Protocols](references/statements/conditional.md)
 - [Content managers Protocols](references/statements/conditional.md)
 - [Descriptors](references/statements/conditional.md)
