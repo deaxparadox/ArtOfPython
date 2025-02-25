@@ -79,7 +79,7 @@
 
 ### Object oriented programming
 
-- Introduction ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+- [Introduction](references/statements/conditional.md)
 - Classes ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
 - OOPs concepts ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - Inheritence ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
@@ -89,16 +89,15 @@
     - Operator overloading ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - Method (Function) overloading ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - Operator overloading ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Magic (Dunder) methods ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+- [Magic (Dunder) methods](references/statements/conditional.md)
 - Iterator Protocols ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Content managers Protocols ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
+- [Content managers Protocols]()
 - Descriptors ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
 - Decorators ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - Staticmethod ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - Classmethod ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
     - Property ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
 - Metaprogramming ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
-- Context mangers ([basics](basic/statements/conditional.md) | [references](references/statements/conditional.md))
 
 
 

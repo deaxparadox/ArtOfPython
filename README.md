@@ -13,8 +13,9 @@ Python is a versatile, high-level programming language known for its simplicity 
 
 ### Learn python
 
-- To lean via chapter [click here ⏩](/docs/ArtOfPython/chapter.md)
+- To lean via chapter [click here ⏩](/docs/ArtOfPython/basics/chapters/README.md)
 - To learn via topics [click here ⏩](/docs/ArtOfPython/README.md)
+    - [OOPs](/docs/ArtOfPython/references/README.md#object-oriented-programming)
 - To lean DSA [click here ⏩](/docs/ArtOfPython/dsa/README.md)
 - Python design patterns [click here ⏭️](/docs/ArtOfPython/design-patterns/README.md)
 - Different programming paradigms [click here ⏩](/docs/ArtOfPython/programming-paradigms.md)
@@ -40,15 +41,3 @@ Python is used in various domains due to its flexibility and powerful capabiliti
 8. **Cybersecurity**: Python's simplicity and extensive libraries make it a preferred choice for developing cybersecurity tools and scripts for penetration testing, malware analysis, and network scanning.
 
 Python's versatility and ease of learning continue to attract beginners and experienced developers alike, solidifying its position as one of the most popular programming languages in the world.
-
-
-----------
-
-### Contextual reading
-
-- **Bold** is used for pointing at something. So, in the paragraph if the focus is required on some word, then we can used th bold fonts. For example, in the following sentence "**Python** most is the most used programming language".
-
-- *Italic* is used for context reference.
-
-- **basic**: It's a one-page theoritical and basic code overview.
-- **reference**: It's the collection of mulitple pages in a folder.
