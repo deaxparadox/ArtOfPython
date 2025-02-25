@@ -48,7 +48,40 @@ Like this you test a piece of code in `try-except` statement.
 
 ### else clause
 
-...
+The `else` clause when used in `try-except`, in executed if `try` block is success. Let's understand with an example. First, we will code a *try-except-else* block, without defining a variable we want:
+
+```py
+In [38]: try:
+    ...:     print(b)
+    ...: except:
+    ...:     print("`b` not found")
+    ...: else:
+    ...:     print("b found in try")
+    ...: 
+`b` not found
+
+In [39]: 
+```
+
+As you can see, when we run the code, *print* statement in except block is executed. Now, we'll define and declare variable `b`, then run the code again.
+
+```py
+In [39]: b = 2
+
+In [40]: try:
+    ...:     print(b)
+    ...: except:
+    ...:     print("`b` not found")
+    ...: else:
+    ...:     print("b found in try")
+    ...: 
+2
+b found in try
+
+In [41]: 
+```
+
+This time we are getting *print* function executed in from *try* and *else*. Because, try block of success, therefore else block also executed.
 
 ### finally clause
 
@@ -82,3 +115,4 @@ finally: print(d)
 # output
 # 2
 # 4
+```
