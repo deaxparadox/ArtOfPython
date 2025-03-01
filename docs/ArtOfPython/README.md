@@ -69,9 +69,10 @@
 
 - [Introduction](references/functions/README.md)
 - [Function](references/functions/101-function/README.md)
-    - [Positional arguments](references/functions/101-function/105-Special-parameters.md#positional-arguments)
-    - [Key-word arguments](references/functions/101-function/104-keyword-arguments.md)
-    - [Only positional arguments](references/statements/conditional.md)
+    - [Standard arguments](references/functions/101-function/105-Special-parameters.md#stadard-arguments-position-and-keyword)
+    - [Keyword arguments](references/functions/101-function/105-Special-parameters.md#n-keyword-arguments)
+    - [Positional arguments](references/functions/101-function/105-Special-parameters.md#n-position-arguments)
+    - [Only positional arguments](references/functions/101-function/105-Special-parameters.md#positional-only-arguments)
     - [Only key-word arguments](references/functions/101-function/105-Special-parameters.md#keyword-only-argument)
     - [Combined arguments](references/functions/101-function/105-Special-parameters.md#combined)
     - [Function scope](references/functions/101-function/107-scopes/README.md)

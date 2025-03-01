@@ -15,7 +15,7 @@ Python is a versatile, high-level programming language known for its simplicity 
 
 - To lean via chapter [click here ⏩](/docs/ArtOfPython/basics/chapters/README.md)
 - To learn via topics [click here ⏩](/docs/ArtOfPython/README.md)
-    - [OOPs](/docs/ArtOfPython/references/README.md#object-oriented-programming)
+    - [OOPs](/docs/ArtOfPython/README.md#object-oriented-programming)
 - To lean DSA [click here ⏩](/docs/ArtOfPython/dsa/README.md)
 - Python design patterns [click here ⏭️](/docs/ArtOfPython/design-patterns/README.md)
 - Different programming paradigms [click here ⏩](/docs/ArtOfPython/programming-paradigms.md)
