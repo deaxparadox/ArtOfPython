@@ -9,3 +9,4 @@
     - [Management Techniques Compared](management-techniques-compared.ipynb)
     - [Intercepting BUilt-in Operation Attributes](intercepting-built-in-operation-attributes.ipynb)
 - [Delegation-based managers revisited](delegation-based-managers-revisisted.ipynb)
+- [Using properties to validate](using-properties-to-validate.ipynb)
